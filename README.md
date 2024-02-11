@@ -32,12 +32,3 @@ https://www.linkedin.com/posts/gopal-vishwakarma1510_kotlin-jetpackcompose-kotli
 
 If you have any feedback, please reach out to us at vishwakarmagopalcs222343@gmail.com
 
-## 🚀 About Me
-As a computer science student with a passion for both web and Android development, I'm actively seeking an internship opportunity to apply for and enhance my skills. My expertise spans HTML, CSS, Bootstrap, JavaScript, Python, MySQL, Git/GitHub, and notably, Kotlin for Android development.
-
-Throughout my academic journey, I've successfully completed numerous projects, showcasing my technical proficiency, creativity, and problem-solving abilities. I'm always eager to learn and adapt to new technologies and programming languages, which fuels my growth as a developer.
-
-I believe in the power of collaboration and look forward to working with professionals who share my enthusiasm for development. Their mentorship can be instrumental in advancing my skills and knowledge. I'm excited about the prospect of contributing to practical digital solutions that can benefit society.
-
-In pursuit of practical experience and long-term career growth, I’m seeking an internship in a challenging yet supportive environment. This opportunity will not only allow me to apply my current skills but also help me acquire new ones. I’m ready to take the next step in my professional journey and look forward to making a meaningful contribution to the team and the projects I’ll be part of. Let’s connect and explore how we can shape the future of technology together.
-
